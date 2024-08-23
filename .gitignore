@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AxonHW/obj
+/AxonHW.Tests/bin/Debug/net6.0
+/AxonHW.Tests/obj/Debug/net6.0
+/AxonHW.Tests/obj
